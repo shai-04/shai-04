@@ -13,7 +13,7 @@
     <a href="https://www.flaticon.com/free-icons/mysql" alt="mysql icons">Mysql icons created by Pixel perfect - Flaticon</a> 
 -->
 
-<img src = "assets/main/wave.gif" width = "128px" style = "display: block; margin: 0 auto;">
+<h1 align = "center"><img src = "assets/main/wave.gif" width = "128px" alt = "Waving hand"</h1>
 <h1 align = "center">Hello, world!</h1>
 <h1 align = "center">I'm Shaiyur Dooken, an aspiring developer from <span alt = "South Africa">🇿🇦</span></h1>
 
@@ -56,3 +56,4 @@
     <li>Machine Learning 600</li>
     <li>IT Project Management 700</li>
 </ul>
+    
