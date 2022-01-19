@@ -13,32 +13,9 @@
     <a href="https://www.flaticon.com/free-icons/mysql" alt="mysql icons">Mysql icons created by Pixel perfect - Flaticon</a> 
 -->
 
-<style>
-    .center {
-        display: block;
-        margin: 0 auto;
-    }
-
-    .languages {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    }
-
-    .languages > img {
-        width: 64px;
-        height: auto;
-        margin-right: 10px;
-    }
-</style>
-
-<img src = "assets/main/wave.gif" width = "128px" class = "center">
-<div class = "center">
-    '''javascript
-        alert("Hello, world!");
-    '''
-</div>
-<h2 align = "center">I'm Shaiyur Dooken, an aspiring developer from <span alt = "South Africa">🇿🇦</span></h2>
+<img src = "assets/main/wave.gif" width = "128px" style = "display: block; margin: 0 auto;">
+<h1 align = "center">Hello, world!</h1>
+<h1 align = "center">I'm Shaiyur Dooken, an aspiring developer from <span alt = "South Africa">🇿🇦</span></h1>
 
 <h2>🙋🏽‍♂️ About me</h2>
 <ul>
@@ -51,16 +28,16 @@
 ---
 
 <h2>🖥️ Languages</h2>
-<div class = "languages">
-    <img src = "assets/languages/website.png" alt = "Visual Basic.NET">
-    <img src = "assets/languages/c.png" alt = "C++">
-    <img src = "assets/languages/c-sharp.png" alt = "C#">
-    <img src = "assets/languages/html-5.png" alt = "HTML">
-    <img src = "assets/languages/css-3.png" alt = "CSS">
-    <img src = "assets/languages/js.png" alt = "Javascript">
-    <img src = "assets/languages/php.png" alt = "PHP">
-    <img src = "assets/languages/mysql.png" alt = "MySQL">
-</div>
+<p>
+    <img width = "64px" src = "assets/languages/website.png" alt = "Visual Basic.NET">
+    <img width = "64px" src = "assets/languages/c.png" alt = "C++">
+    <img width = "64px" src = "assets/languages/c-sharp.png" alt = "C#">
+    <img width = "64px" src = "assets/languages/html-5.png" alt = "HTML">
+    <img width = "64px" src = "assets/languages/css-3.png" alt = "CSS">
+    <img width = "64px" src = "assets/languages/js.png" alt = "Javascript">
+    <img width = "64px" src = "assets/languages/php.png" alt = "PHP">
+    <img width = "64px" src = "assets/languages/mysql.png" alt = "MySQL">
+</p>
 
 ---
 
