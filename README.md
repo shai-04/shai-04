@@ -27,16 +27,16 @@
 
 ---
 
-<h2>🖥️ Languages</h2>
-<p>
-    <img width = "64px" src = "assets/languages/website.png" alt = "Visual Basic.NET">
-    <img width = "64px" src = "assets/languages/c.png" alt = "C++">
-    <img width = "64px" src = "assets/languages/c-sharp.png" alt = "C#">
-    <img width = "64px" src = "assets/languages/html-5.png" alt = "HTML">
-    <img width = "64px" src = "assets/languages/css-3.png" alt = "CSS">
-    <img width = "64px" src = "assets/languages/js.png" alt = "Javascript">
-    <img width = "64px" src = "assets/languages/php.png" alt = "PHP">
-    <img width = "64px" src = "assets/languages/mysql.png" alt = "MySQL">
+<h2 style = "color: #f00;">🖥️ Languages</h2>
+<ul>
+    <li><img width = "32px" src = "assets/languages/website.png" alt = "Visual Basic"></li>
+    <li><img width = "32px" src = "assets/languages/c.png" alt = "C++"></li>
+    <li><img width = "32px" src = "assets/languages/c-sharp.png" alt = "C#"></li>
+    <li><img width = "32px" src = "assets/languages/html-5.png" alt = "HTML"></li>
+    <li><img width = "32px" src = "assets/languages/css-3.png" alt = "CSS"></li>
+    <li><img width = "32px" src = "assets/languages/js.png" alt = "Javascript"></li>
+    <li><img width = "32px" src = "assets/languages/php.png" alt = "PHP"></li>
+    <li><img width = "32px" src = "assets/languages/mysql.png" alt = "MySQL"></li>
 </p>
 
 ---
@@ -56,4 +56,3 @@
     <li>Machine Learning 600</li>
     <li>IT Project Management 700</li>
 </ul>
-    
