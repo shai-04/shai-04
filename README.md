@@ -11,6 +11,7 @@
     <a href="https://www.flaticon.com/free-icons/js" alt="js icons">Js icons created by Freepik - Flaticon</a>
     <a href="https://www.flaticon.com/free-icons/php" alt="php icons">Php icons created by Freepik - Flaticon</a>
     <a href="https://www.flaticon.com/free-icons/mysql" alt="mysql icons">Mysql icons created by Pixel perfect - Flaticon</a> 
+    <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
 -->
 
 <h1 align = "center"><img src = "assets/main/wave.gif" width = "128px" alt = "Waving hand"</h1>
@@ -32,6 +33,7 @@
     <li><img width = "32px" src = "assets/languages/website.png" alt = "Visual Basic"></li>
     <li><img width = "32px" src = "assets/languages/c.png" alt = "C++"></li>
     <li><img width = "32px" src = "assets/languages/c-sharp.png" alt = "C#"></li>
+    <li><img width = "32px" src = "assets/languages/java.png" alt = "Java"></li>
     <li><img width = "32px" src = "assets/languages/html-5.png" alt = "HTML"></li>
     <li><img width = "32px" src = "assets/languages/css-3.png" alt = "CSS"></li>
     <li><img width = "32px" src = "assets/languages/js.png" alt = "Javascript"></li>
