@@ -1,5 +1,5 @@
 <!-- 
-    // Attributions: 
+    // Attributions for icons used: 
 
     <a href="https://www.flaticon.com/free-icons/hello" alt="hello icons">Hello icons created by Freepik - Flaticon</a>
     <a href="https://www.flaticon.com/free-icons/whatsapp" alt="whatsapp icons">Whatsapp icons created by Ruslan Babkin - Flaticon</a>
@@ -21,7 +21,7 @@
 <h2>🙋🏽‍♂️ About me</h2>
 <ul>
     <li>📖 I'm in the final year of my studies towards a <b>BSc IT</b>.</li>
-    <li>✔️ I'm currently brushing up on: <b>Data Structures</b>.</li>
+    <li>✔️ I'm currently brushing up on: <b>Data Structures</b> and <b>Algorithms</b>.</li>
     <li>📧 <a href = "mailto: shaiyur101@gmail.com">Reach</a> out to me via e-mail.</li>
     <li>🔥 <b>Fun Fact:</b> I'm a SEGA fanboy, having owned a console when I was younger.</li>
 </ul>
