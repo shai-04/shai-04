@@ -15,7 +15,7 @@
 -->
 
 <h1 align = "center"><img src = "assets/main/wave.gif" width = "128px" alt = "Waving hand"</h1>
-<h1 align = "center" style = "font-family: monospace, 'sans-serif';">std::cout << "Hello, world!";</h1>
+<h1 align = "center">Hello, world!</h1>
 <h1 align = "center">I'm Shaiyur Dooken, an aspiring developer from <span alt = "South Africa">🇿🇦</span></h1>
 
 <h2>🙋🏽‍♂️ About me:</h2>
