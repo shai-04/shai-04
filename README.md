@@ -15,20 +15,20 @@
 -->
 
 <h1 align = "center"><img src = "assets/main/wave.gif" width = "128px" alt = "Waving hand"</h1>
-<h1 align = "center">Hello, world!</h1>
+<h1 align = "center" style = "font-family: monospace, 'sans-serif';">std::cout << "Hello, world!";</h1>
 <h1 align = "center">I'm Shaiyur Dooken, an aspiring developer from <span alt = "South Africa">🇿🇦</span></h1>
 
-<h2>🙋🏽‍♂️ About me</h2>
+<h2>🙋🏽‍♂️ About me:</h2>
 <ul>
-    <li>📖 I'm in the final year of my studies towards a <b>BSc IT</b>.</li>
+    <li>📖 I'm a <b>BSc IT</b> graduate from Richfield, having achieved a cum laude.</li>
     <li>✔️ I'm currently brushing up on: <b>Data Structures</b> and <b>Algorithms</b>.</li>
-    <li>📧 <a href = "mailto: shaiyur101@gmail.com">Reach</a> out to me via e-mail.</li>
+    <li>📧 <a href = "https://shai-04.github.io/">View</a> my portfolio.</li>
     <li>🔥 <b>Fun Fact:</b> I'm a SEGA fanboy, having owned a console when I was younger.</li>
 </ul>
 
 ---
 
-<h2 style = "color: #f00;">🖥️ Languages</h2>
+<h2 style = "color: #f00;">🖥️ Languages:</h2>
 <ul>
     <li><img width = "32px" src = "assets/languages/website.png" alt = "Visual Basic"></li>
     <li><img width = "32px" src = "assets/languages/c.png" alt = "C++"></li>
@@ -43,7 +43,7 @@
 
 ---
 
-<h2>🧮 Other Academic Modules</h2>
+<h2>🧮 Other Academic Modules:</h2>
 <p>
     Apart from learning the above languages, I've also covered the 
     following modules: 
