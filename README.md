@@ -30,7 +30,7 @@
 
 <h2 style = "color: #f00;">🖥️ Languages:</h2>
 <ul>
-    <li><img width = "32px" src = "assets/languages/website.png" alt = "Visual Basic"></li>
+    <li><img width = "32px" src = "assets/languages/vb.png" alt = "Visual Basic"></li>
     <li><img width = "32px" src = "assets/languages/c.png" alt = "C++"></li>
     <li><img width = "32px" src = "assets/languages/c-sharp.png" alt = "C#"></li>
     <li><img width = "32px" src = "assets/languages/java.png" alt = "Java"></li>
