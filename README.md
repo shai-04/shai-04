@@ -56,5 +56,15 @@
     <li>Database Systems 600</li>
     <li>Information Systems 622</li>
     <li>Machine Learning 600</li>
+    <li>Mathematics 512</li>
+    <li>Mobile Application Development 700 (Android Studio & Java)</li>
+    <li>Networks 512</li>
     <li>IT Project Management 700</li>
 </ul>
+
+---
+
+<h2>👀 Profile statistics:</h2>
+    
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=shai-04&show_icons=true&locale=en" alt = "Shaiyur's GitHub stats"/>
+<img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=shai-04&" alt = "Shaiyur's streak on GitHub"/>
