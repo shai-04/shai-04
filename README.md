@@ -30,15 +30,15 @@
 
 <h2 style = "color: #f00;">🖥️ Languages:</h2>
 <ul>
-    <li><img width = "32px" src = "assets/languages/vb.png" alt = "Visual Basic"></li>
-    <li><img width = "32px" src = "assets/languages/c.png" alt = "C++"></li>
-    <li><img width = "32px" src = "assets/languages/c-sharp.png" alt = "C#"></li>
-    <li><img width = "32px" src = "assets/languages/java.png" alt = "Java"></li>
-    <li><img width = "32px" src = "assets/languages/html-5.png" alt = "HTML"></li>
-    <li><img width = "32px" src = "assets/languages/css-3.png" alt = "CSS"></li>
-    <li><img width = "32px" src = "assets/languages/js.png" alt = "Javascript"></li>
-    <li><img width = "32px" src = "assets/languages/php.png" alt = "PHP"></li>
-    <li><img width = "32px" src = "assets/languages/mysql.png" alt = "MySQL"></li>
+    <li><img width = "32px" src = "assets/languages/vb.png" alt = "Visual Basic">&nbsp;&nbsp;Visual Basic</li>
+    <li><img width = "32px" src = "assets/languages/c.png" alt = "C++">&nbsp;&nbsp;C++</li>
+    <li><img width = "32px" src = "assets/languages/c-sharp.png" alt = "C#">&nbsp;&nbsp;C#</li>
+    <li><img width = "32px" src = "assets/languages/java.png" alt = "Java">&nbsp;&nbsp;Java</li>
+    <li><img width = "32px" src = "assets/languages/html-5.png" alt = "HTML">&nbsp;&nbsp;HTML</li>
+    <li><img width = "32px" src = "assets/languages/css-3.png" alt = "CSS">&nbsp;&nbsp;CSS</li>
+    <li><img width = "32px" src = "assets/languages/js.png" alt = "Javascript">&nbsp;&nbsp;JavaScript</li>
+    <li><img width = "32px" src = "assets/languages/php.png" alt = "PHP">&nbsp;&nbsp;PHP</li>
+    <li><img width = "32px" src = "assets/languages/mysql.png" alt = "MySQL">&nbsp;&nbsp;MySQL</li>
 </p>
 
 ---
