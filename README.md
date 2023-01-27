@@ -66,5 +66,5 @@
 
 <h2>👀 Profile statistics:</h2>
     
-<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=shai-04&show_icons=true&locale=en" alt = "Shaiyur's GitHub stats"/>
-<img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=shai-04&" alt = "Shaiyur's streak on GitHub"/>
+<h3 align = "center"><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=shai-04&show_icons=true&locale=en" width = "420px" alt = "Shaiyur's GitHub stats"/></h3>
+<h3 align = "center"><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=shai-04&" width = "420px" alt = "Shaiyur's streak on GitHub"/></h3>
