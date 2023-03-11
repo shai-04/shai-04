@@ -20,8 +20,8 @@
 
 <h2>🙋🏽‍♂️ About me:</h2>
 <ul>
-    <li>📖 I'm a <b>BSc IT</b> graduate from Richfield, having achieved a cum laude.</li>
-    <li>✔️ I'm currently brushing up on: <b>Data Structures</b> and <b>Algorithms</b>.</li>
+    <li>📖 I'm a Junior Developer with a Bachelor of Science in Information Technology.</li>
+    <!-- <li>✔️ I'm currently brushing up on: <b>Data Structures</b> and <b>Algorithms</b>.</li> -->
     <li>📧 <a href = "https://shai-04.github.io/">View</a> my portfolio.</li>
     <li>🔥 <b>Fun Fact:</b> I'm a SEGA fanboy, having owned a console when I was younger.</li>
 </ul>
